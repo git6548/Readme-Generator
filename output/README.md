@@ -1,4 +1,4 @@
-# a
+# Readme Generator
    [![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   ## Table of Contents: 
   
@@ -16,16 +16,16 @@
   
   ### [Questions](#questions)
   
-  ## Description: b
+  ## Description: This creates Readmes
 
-  ## Installation: c
+  ## Installation: This is how you install my project
 
-  ## Usage: d
+  ## Usage: This is how you use my project
 
   ## License:  [License: BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) This project is licensed under the terms of the BSD 3-Clause license.
   
-  ## Contributing: e
+  ## Contributing: This is how you contribute to my project
   
-  ## Tests: f
+  ## Tests: This is how you test my project
   
-  ## Questions: [Github Link](github.com/g) reach out to h with any additional questions
+  ## Questions: [Github Link](github.com/git6548) reach out to stephanieanderson5133@gmail.com with any additional questions
